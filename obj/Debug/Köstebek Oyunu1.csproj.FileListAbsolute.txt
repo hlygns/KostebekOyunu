@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek Oyunu1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek_Oyunu1.Form1.resources
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek_Oyunu1.Properties.Resources.resources
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek Oyunu1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek Oyunu1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\bin\Debug\Köstebek Oyunu1.exe.config
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\bin\Debug\Köstebek Oyunu1.exe
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\bin\Debug\Köstebek Oyunu1.pdb
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek Oyunu1.exe
+C:\Users\HP\source\repos\Köstebek Oyunu1\Köstebek Oyunu1\obj\Debug\Köstebek Oyunu1.pdb
